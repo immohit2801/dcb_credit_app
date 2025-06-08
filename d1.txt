@@ -3,7 +3,7 @@ x=20
 y=30
 z=x+y
 s.o.p(z)
-
+Printed a number
 a=1 
 b=2
 c=a+b
@@ -12,5 +12,8 @@ c=a+b
 //Story-131
 int j=10
 int k=20
+<<<<<<< HEAD
 
 int age=26;
+=======
+>>>>>>> e02c925b45b04ef01eabb71dc1373ce6e355c552
