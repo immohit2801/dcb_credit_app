@@ -1,3 +1,8 @@
 a=1 
 b=2
 c=a+b
+
+
+//Story-131
+int j=10
+int k=20
