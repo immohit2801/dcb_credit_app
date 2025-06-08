@@ -21,6 +21,7 @@ public class MsgRestController {
 		int j = 20;
 		int age = 16;
 		int k = 30;
+		int y = 11;
 		return msgService.getWelcomeMsg();
 	}
 	
