@@ -23,6 +23,7 @@ public class MsgRestController {
 		int age = 16;
 		int k = 30;
 		int y = 11;
+		int w = 28;
 		age return;
 		return msgService.getWelcomeMsg();
 	}
