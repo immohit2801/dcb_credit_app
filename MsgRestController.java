@@ -27,6 +27,7 @@ public class MsgRestController {
 		age return;
 		Mohit
 		Akash
+		Sonoo
 		return msgService.getWelcomeMsg();
 	}
 	
