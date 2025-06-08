@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import in.ashokit.service.MsgService;
 
 @RestController
+@RequestAPI
 @RequestMapping("/api")
 public class MsgRestController {
 	
