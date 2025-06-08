@@ -1,3 +1,9 @@
+//Story-121
+x=20
+y=30
+z=x+y
+s.o.p(z)
+
 a=1 
 b=2
 c=a+b
