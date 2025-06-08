@@ -12,3 +12,5 @@ c=a+b
 //Story-131
 int j=10
 int k=20
+
+int age=26;
